@@ -2,7 +2,7 @@
     <img src="https://www.xtrafondos.com/wallpapers/resized/edificios-ciudad-de-noche-3183.jpg?s=large" alt="" width = "550" height = "200">
 </div>
 <h1 align="center">Hi 👋, I'm Gianfranco Ballester</h1>
-<h3 align="center">Full Stack Software Trainee (Java/JavaScript/HTML/CSS) | Programmer Full Stack</h3>
+<h3 align="center">Desarrollador Web</h3>
 
 - 💬 Ask me about **html, css, javascript and java**
 
